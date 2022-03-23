@@ -1,0 +1,3 @@
+# El archivo .gitignore nos permite ignorar archivos que se encuentren en nuestro repositorio local y que no queres que se suban a nuestro repositorio de github
+# Es por ello que nos conviene incluirlo, ya que ha archivos que no convienen subir porque no son de necesidad, como ser los archivos .exe que se crear al compilar en C, entre otros
+# Existen paginas que nos permiten saber cual seria la configuracion conveniente para nuestro archivo .gitignore, segun las herramientas y lenguajes que usemos, como ser el caso de gitignore.io
